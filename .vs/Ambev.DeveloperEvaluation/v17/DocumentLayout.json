@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\theus\\Downloads\\abi-gth-omnia-developer-evaluation 1 (1) 2\\template\\backend\\",
+  "WorkspaceRootPath": "C:\\Users\\theus\\source\\repos\\Ambev.DeveloperEvaluation\\",
   "Documents": [],
   "DocumentGroupContainers": [
     {
@@ -26,6 +26,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1592713102:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Bookmark",

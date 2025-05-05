@@ -3397,11 +3397,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\theus\\Downloads\\abi-gth-omnia-developer-evaluation 1 (1) 2\\template\\backend\\tests\\Ambev.DeveloperEvaluation.Integration\\Ambev.DeveloperEvaluation.Integration.csproj",
+      "projectUniqueName": "C:\\Users\\theus\\Source\\Repos\\Ambev.DeveloperEvaluation\\tests\\Ambev.DeveloperEvaluation.Integration\\Ambev.DeveloperEvaluation.Integration.csproj",
       "projectName": "Ambev.DeveloperEvaluation.Integration",
-      "projectPath": "C:\\Users\\theus\\Downloads\\abi-gth-omnia-developer-evaluation 1 (1) 2\\template\\backend\\tests\\Ambev.DeveloperEvaluation.Integration\\Ambev.DeveloperEvaluation.Integration.csproj",
+      "projectPath": "C:\\Users\\theus\\Source\\Repos\\Ambev.DeveloperEvaluation\\tests\\Ambev.DeveloperEvaluation.Integration\\Ambev.DeveloperEvaluation.Integration.csproj",
       "packagesPath": "C:\\Users\\theus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\theus\\Downloads\\abi-gth-omnia-developer-evaluation 1 (1) 2\\template\\backend\\tests\\Ambev.DeveloperEvaluation.Integration\\obj\\",
+      "outputPath": "C:\\Users\\theus\\Source\\Repos\\Ambev.DeveloperEvaluation\\tests\\Ambev.DeveloperEvaluation.Integration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -3425,14 +3425,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\theus\\Downloads\\abi-gth-omnia-developer-evaluation 1 (1) 2\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj": {
-              "projectPath": "C:\\Users\\theus\\Downloads\\abi-gth-omnia-developer-evaluation 1 (1) 2\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj"
+            "C:\\Users\\theus\\Source\\Repos\\Ambev.DeveloperEvaluation\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj": {
+              "projectPath": "C:\\Users\\theus\\Source\\Repos\\Ambev.DeveloperEvaluation\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj"
             },
-            "C:\\Users\\theus\\Downloads\\abi-gth-omnia-developer-evaluation 1 (1) 2\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj": {
-              "projectPath": "C:\\Users\\theus\\Downloads\\abi-gth-omnia-developer-evaluation 1 (1) 2\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj"
+            "C:\\Users\\theus\\Source\\Repos\\Ambev.DeveloperEvaluation\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj": {
+              "projectPath": "C:\\Users\\theus\\Source\\Repos\\Ambev.DeveloperEvaluation\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj"
             },
-            "C:\\Users\\theus\\Downloads\\abi-gth-omnia-developer-evaluation 1 (1) 2\\template\\backend\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj": {
-              "projectPath": "C:\\Users\\theus\\Downloads\\abi-gth-omnia-developer-evaluation 1 (1) 2\\template\\backend\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj"
+            "C:\\Users\\theus\\Source\\Repos\\Ambev.DeveloperEvaluation\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj": {
+              "projectPath": "C:\\Users\\theus\\Source\\Repos\\Ambev.DeveloperEvaluation\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj"
             }
           }
         }
