@@ -1,0 +1,48 @@
+C:\Users\theus\Downloads\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.deps.json
+C:\Users\theus\Downloads\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.dll
+C:\Users\theus\Downloads\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.pdb
+C:\Users\theus\Downloads\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Common.dll
+C:\Users\theus\Downloads\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Common.pdb
+C:\Users\theus\Downloads\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.csproj.AssemblyReference.cache
+C:\Users\theus\Downloads\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theus\Downloads\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.AssemblyInfoInputs.cache
+C:\Users\theus\Downloads\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.AssemblyInfo.cs
+C:\Users\theus\Downloads\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\theus\Downloads\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.sourcelink.json
+C:\Users\theus\Downloads\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.De.3B55B412.Up2Date
+C:\Users\theus\Downloads\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.dll
+C:\Users\theus\Downloads\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\refint\Ambev.DeveloperEvaluation.Domain.dll
+C:\Users\theus\Downloads\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.pdb
+C:\Users\theus\Downloads\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\ref\Ambev.DeveloperEvaluation.Domain.dll
+C:\Users\theus\Source\Repos\Ambev.DeveloperEvaluation\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.deps.json
+C:\Users\theus\Source\Repos\Ambev.DeveloperEvaluation\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.dll
+C:\Users\theus\Source\Repos\Ambev.DeveloperEvaluation\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.pdb
+C:\Users\theus\Source\Repos\Ambev.DeveloperEvaluation\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Common.dll
+C:\Users\theus\Source\Repos\Ambev.DeveloperEvaluation\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Common.pdb
+C:\Users\theus\Source\Repos\Ambev.DeveloperEvaluation\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.csproj.AssemblyReference.cache
+C:\Users\theus\Source\Repos\Ambev.DeveloperEvaluation\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theus\Source\Repos\Ambev.DeveloperEvaluation\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.AssemblyInfoInputs.cache
+C:\Users\theus\Source\Repos\Ambev.DeveloperEvaluation\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.AssemblyInfo.cs
+C:\Users\theus\Source\Repos\Ambev.DeveloperEvaluation\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\theus\Source\Repos\Ambev.DeveloperEvaluation\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.sourcelink.json
+C:\Users\theus\Source\Repos\Ambev.DeveloperEvaluation\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.De.3B55B412.Up2Date
+C:\Users\theus\Source\Repos\Ambev.DeveloperEvaluation\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.dll
+C:\Users\theus\Source\Repos\Ambev.DeveloperEvaluation\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\refint\Ambev.DeveloperEvaluation.Domain.dll
+C:\Users\theus\Source\Repos\Ambev.DeveloperEvaluation\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.pdb
+C:\Users\theus\Source\Repos\Ambev.DeveloperEvaluation\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\ref\Ambev.DeveloperEvaluation.Domain.dll
+C:\Users\theus\Downloads\.NET TEST\template\backend\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.deps.json
+C:\Users\theus\Downloads\.NET TEST\template\backend\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.dll
+C:\Users\theus\Downloads\.NET TEST\template\backend\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.pdb
+C:\Users\theus\Downloads\.NET TEST\template\backend\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Common.dll
+C:\Users\theus\Downloads\.NET TEST\template\backend\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Common.pdb
+C:\Users\theus\Downloads\.NET TEST\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.csproj.AssemblyReference.cache
+C:\Users\theus\Downloads\.NET TEST\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theus\Downloads\.NET TEST\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.AssemblyInfoInputs.cache
+C:\Users\theus\Downloads\.NET TEST\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.AssemblyInfo.cs
+C:\Users\theus\Downloads\.NET TEST\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\theus\Downloads\.NET TEST\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.sourcelink.json
+C:\Users\theus\Downloads\.NET TEST\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.De.3B55B412.Up2Date
+C:\Users\theus\Downloads\.NET TEST\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.dll
+C:\Users\theus\Downloads\.NET TEST\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\refint\Ambev.DeveloperEvaluation.Domain.dll
+C:\Users\theus\Downloads\.NET TEST\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.pdb
+C:\Users\theus\Downloads\.NET TEST\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\ref\Ambev.DeveloperEvaluation.Domain.dll

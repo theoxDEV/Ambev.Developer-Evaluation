@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\theus\\Downloads\\.NET TEST\\template\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACF31E5-F79E-4A52-AD6F-91CB6F05F700}|tests\\Ambev.DeveloperEvaluation.Functional\\Ambev.DeveloperEvaluation.Functional.csproj|c:\\users\\theus\\downloads\\.net test\\template\\backend\\tests\\ambev.developerevaluation.functional\\sales\\getsalebyidendpointtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACF31E5-F79E-4A52-AD6F-91CB6F05F700}|tests\\Ambev.DeveloperEvaluation.Functional\\Ambev.DeveloperEvaluation.Functional.csproj|solutionrelative:tests\\ambev.developerevaluation.functional\\sales\\getsalebyidendpointtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACF31E5-F79E-4A52-AD6F-91CB6F05F700}|tests\\Ambev.DeveloperEvaluation.Functional\\Ambev.DeveloperEvaluation.Functional.csproj|c:\\users\\theus\\downloads\\.net test\\template\\backend\\tests\\ambev.developerevaluation.functional\\sales\\createsaleendpointtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACF31E5-F79E-4A52-AD6F-91CB6F05F700}|tests\\Ambev.DeveloperEvaluation.Functional\\Ambev.DeveloperEvaluation.Functional.csproj|solutionrelative:tests\\ambev.developerevaluation.functional\\sales\\createsaleendpointtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 348,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateSaleEndpointTests.cs",
+              "DocumentMoniker": "C:\\Users\\theus\\Downloads\\.NET TEST\\template\\backend\\tests\\Ambev.DeveloperEvaluation.Functional\\Sales\\CreateSaleEndpointTests.cs",
+              "RelativeDocumentMoniker": "tests\\Ambev.DeveloperEvaluation.Functional\\Sales\\CreateSaleEndpointTests.cs",
+              "ToolTip": "C:\\Users\\theus\\Downloads\\.NET TEST\\template\\backend\\tests\\Ambev.DeveloperEvaluation.Functional\\Sales\\CreateSaleEndpointTests.cs",
+              "RelativeToolTip": "tests\\Ambev.DeveloperEvaluation.Functional\\Sales\\CreateSaleEndpointTests.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwCAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:17:30.822Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AQIAAJwBAAAAAAAAAAAowKgBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-15T15:43:38.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1592713102:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetSaleByIdEndpointTests.cs",
+              "DocumentMoniker": "C:\\Users\\theus\\Downloads\\.NET TEST\\template\\backend\\tests\\Ambev.DeveloperEvaluation.Functional\\Sales\\GetSaleByIdEndpointTests.cs",
+              "RelativeDocumentMoniker": "tests\\Ambev.DeveloperEvaluation.Functional\\Sales\\GetSaleByIdEndpointTests.cs",
+              "ToolTip": "C:\\Users\\theus\\Downloads\\.NET TEST\\template\\backend\\tests\\Ambev.DeveloperEvaluation.Functional\\Sales\\GetSaleByIdEndpointTests.cs",
+              "RelativeToolTip": "tests\\Ambev.DeveloperEvaluation.Functional\\Sales\\GetSaleByIdEndpointTests.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvycAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:22:23.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
